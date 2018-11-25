@@ -15,7 +15,7 @@ This is a minimal react boilerplate powered by [React Scripts](https://github.co
 1. Clone the repository into your project folder
 
 ```bash
-git clone git@github.com:Leon-Arno/React-Plate.git
+git clone git@github.com:Leon-Arno/React-Plate.git .
 ```
 
 2. Remove the .git directory to add your own repository
