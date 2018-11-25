@@ -8,6 +8,7 @@ This is a minimal react boilerplate powered by [React Scripts](https://github.co
 - Bootstrap 4
 - Font-Awesome
 - Node-Sass-chokidar
+- **Extra:** .gitignore file for all operating systems.
 
 ## Quick Start
 
