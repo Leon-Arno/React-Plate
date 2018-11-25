@@ -2,7 +2,6 @@
   "name": "your-project-name",
   "version": "1.0.0",
   "description": "your description",
-  "main": "index.js",
   "scripts": {
     "build-css": "node-sass-chokidar src/sass/ -o src/css/",
     "start": "react-scripts start",
