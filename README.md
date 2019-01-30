@@ -1,5 +1,7 @@
 # A React Boilerplate with Bootstrap 4 + Font-Awesome
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Leon-Arno/React-Plate.svg)](https://greenkeeper.io/)
+
 ![webshot](./webshot.png)
 
 This is a minimal react boilerplate powered by [React Scripts](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md) configured with:
