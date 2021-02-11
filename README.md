@@ -9,7 +9,8 @@ This is a minimal react boilerplate powered by [React Scripts](https://github.co
 - Font-Awesome
 - Node-Sass-chokidar
 - **Extra:** .gitignore file for all operating systems.
-
+- [x] Hello
+ 
 ## Quick Start
 
 1. Clone the repository into your project folder
